@@ -1,7 +1,7 @@
  # Placement-Preparation
 This repository consists of all the necessary questions and their solutions required for cracking the coding rounds and technical interviews at tech companies as well. And this content will surely help you to crack your dream company. All the material has been taken and combined from various different sources.
 
-These resources helped me to get an internship at my Dream company  AMAZON , and I hope it will help you too! 
+These resources helped me to get an internship at my Dream company ***AMAZON*** , and I hope it will help you too! 
 
 I will keep on updating this repository, If I feel that anything is missing. 
 
@@ -62,6 +62,6 @@ Will be soon adding resources for CS Fundamentals as well...
  
  
  
- ***Do star, fork and share the repo to show your support, it would help others too!***
- Let me know your views on the repository or any changes or improvements and if you wish to contribute too at: anushkagupta20128@gmail.com
- LinkedIn: https://www.linkedin.com/in/anushka-gupta-679496196/
+ ***Do star, fork and share the repo to show your support, it would help others too!*** <br>
+ Let me know your views on the repository or any changes or improvements and if you wish to contribute too at: anushkagupta20128@gmail.com <br>
+ ***LinkedIn: https://www.linkedin.com/in/anushka-gupta-679496196/***
