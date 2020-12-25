@@ -10,7 +10,7 @@ The folders above consist of all the required questions and their solutions as w
  
 Let me know,if you wish to add anything else to this content.
 
-
+### The pdfs added above consist of the ***500 Most asked questions on DSA in FAANG interviews- topicwise*** 
 
 
 # How can I best prepare for interviews? 
