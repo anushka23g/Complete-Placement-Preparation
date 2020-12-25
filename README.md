@@ -54,7 +54,7 @@ Always talk through your solution, explain any trade-offs you are making between
 
 
  
-
+Will be soon adding resources for CS Fundamentals as well...
  
  
  
