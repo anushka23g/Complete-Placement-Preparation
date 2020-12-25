@@ -1,4 +1,4 @@
- #Complete-Placement-Preparation\
+ # Complete-Placement-Preparation\
 This repository consists of all the necessary questions and their solutions required for cracking the coding rounds and technical interviews at tech companies as well. And this content will surely help you to crack your dream company. All the material has been taken and combined from various different sources. I will keep on updating this repository, If I feel that anything is missing. \ 
  
  
@@ -41,15 +41,15 @@ Always talk through your solution, explain any trade-offs you are making between
  
 # SOME EXTRA TIPS:
  
-## Coding Practice\
+## Coding Practice
 LeetCode [https://leetcode.com/]  (Go to Problems -> Algorithms)\
 GeeksForGeeks [https://practice.geeksforgeeks.org/explore/?page=1] \
-Hackerrank [https://www.hackerrank.com/] \
+Hackerrank [https://www.hackerrank.com/] 
 
-## General Interview Prep\
+## General Interview Prep
 GeeksforGeeks [https://www.geeksforgeeks.org/] \
 High Scalability [http://highscalability.squarespace.com/]\
-Interview Puzzles [https://www.geeksforgeeks.org/category/puzzles/] \
+Interview Puzzles [https://www.geeksforgeeks.org/category/puzzles/]\
 
  
 
