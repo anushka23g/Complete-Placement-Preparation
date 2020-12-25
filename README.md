@@ -56,7 +56,9 @@ Always talk through your solution, explain any trade-offs you are making between
 [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
 
 
+# Projects:
 
+For examples of projects you can check my other repositories [here](www.github.com/anushka23g) , Will be adding more projects soon!
  
 Will be soon adding resources for CS Fundamentals as well...
  
