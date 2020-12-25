@@ -42,7 +42,7 @@ Always talk through your solution, explain any trade-offs you are making between
 # SOME EXTRA TIPS:
  
 ## Coding Practice
-[LeetCode] [https://leetcode.com/]  (Go to Problems -> Algorithms)\
+[LeetCode] (https://leetcode.com/)  (Go to Problems -> Algorithms)\
 [GeeksForGeeks] [https://practice.geeksforgeeks.org/explore/?page=1] \
 [Hackerrank] [https://www.hackerrank.com/] 
 
