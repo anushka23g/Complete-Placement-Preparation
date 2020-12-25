@@ -36,7 +36,7 @@ Always talk through your solution, explain any trade-offs you are making between
 1️⃣3️⃣ Heap or priority queue\
 1️⃣4️⃣ Graph\
 1️⃣5️⃣ Dynamic programming\
-1️⃣6️⃣ Trie\
+1️⃣6️⃣ Trie
 
  
 # SOME EXTRA TIPS:
