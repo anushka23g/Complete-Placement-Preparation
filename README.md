@@ -2,14 +2,14 @@
 This repository consists of all the necessary questions and their solutions required for cracking the coding rounds and technical interviews at tech companies as well. And this content will surely help you to crack your dream company. All the material has been taken and combined from various different sources. I will keep on updating this repository, If I feel that anything is missing. 
  
  
-The folders above consist of all the required questions and their solutions as well, according to each topic\
+The folders above consist of all the required questions and their solutions as well, according to each topic
  
-Let me know,if you wish to add anything else to this content\
+Let me know,if you wish to add anything else to this content.
 
 
 
 
-# How can I best prepare for interviews? \
+# How can I best prepare for interviews? 
 
 Practice writing code in a Google doc, then running test cases on the code and optimizing it. Below are some materials that will help. Inside the information there will be a few links, a video, and also a few practice problems to help you know what to expect. Here are the top notes:
 
@@ -49,7 +49,9 @@ Always talk through your solution, explain any trade-offs you are making between
 ## General Interview Prep
 GeeksforGeeks [https://www.geeksforgeeks.org/] \
 High Scalability [http://highscalability.squarespace.com/]\
-Interview Puzzles [https://www.geeksforgeeks.org/category/puzzles/]\
+Interview Puzzles [https://www.geeksforgeeks.org/category/puzzles/]
+
+[Lets go to Quora](https://www.quora.com)
 
  
 
