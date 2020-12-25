@@ -21,7 +21,7 @@ Always talk through your solution, explain any trade-offs you are making between
  
  ##  The sequence for studying Data Structures and Algorithms should be as follows: 
 
-1️⃣  Arrays \
+1️⃣  Arrays & Matrix \
 2️⃣  String\
 3️⃣ Searching\
 4️⃣ Sorting\
@@ -35,9 +35,9 @@ Always talk through your solution, explain any trade-offs you are making between
 1️⃣2️⃣ BST\
 1️⃣3️⃣ Heap or priority queue\
 1️⃣4️⃣ Graph\
-1️⃣5️⃣ Dynamic programming\
-1️⃣6️⃣ Trie
-
+1️⃣5️⃣ Greedy\
+1️⃣6️⃣ Dynamic programming\
+1️⃣7️⃣Trie
  
 # SOME EXTRA TIPS:
  
