@@ -47,9 +47,9 @@ Always talk through your solution, explain any trade-offs you are making between
 [Hackerrank](https://www.hackerrank.com/)
 
 ## General Interview Prep
-GeeksforGeeks(https://www.geeksforgeeks.org/)\
-High Scalability(http://highscalability.squarespace.com/)\
-Interview Puzzles [https://www.geeksforgeeks.org/category/puzzles/]
+GeeksforGeeks(https://www.geeksforgeeks.org/) \
+High Scalability(http://highscalability.squarespace.com/) \
+Interview Puzzles(https://www.geeksforgeeks.org/category/puzzles/)
 
 [Lets go to Quora](https://www.quora.com)
 
