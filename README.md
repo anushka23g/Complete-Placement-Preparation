@@ -19,24 +19,24 @@ You will be given a problem or puzzle to solve and you’ll need to talk about y
 Always talk through your solution, explain any trade-offs you are making between time and memory and ask any questions you need to clarify the question. It is worthwhile to talk about your initial thoughts to a question, though a brute force solution will be received less well than taking time to compose a more efficient solution.
  
  
- ##  The sequence for studying Data Structures and Algorithms should be as follows: 
+ ##  The sequence for studying Data Structures and Algorithms should be as follows:\
 
-1️⃣  Arrays 
-2️⃣  String
-3️⃣ Searching
-4️⃣ Sorting
-5️⃣ Hashing
-6️⃣ Stack
-7️⃣ Queue
-8️⃣ Linked List
-9️⃣ Recursion
-1️⃣0️⃣ Backtracking
-1️⃣1️⃣ Tree
-1️⃣2️⃣ BST
-1️⃣3️⃣ Heap/ priority queue
-1️⃣4️⃣ Graph
-1️⃣5️⃣ Dynamic programming
-1️⃣6️⃣ Trie
+1️⃣  Arrays \
+2️⃣  String\
+3️⃣ Searching\
+4️⃣ Sorting\
+5️⃣ Hashing\
+6️⃣ Stack\
+7️⃣ Queue\
+8️⃣ Linked List\
+9️⃣ Recursion\
+1️⃣0️⃣ Backtracking\
+1️⃣1️⃣ Tree\
+1️⃣2️⃣ BST\
+1️⃣3️⃣ Heap or priority queue\
+1️⃣4️⃣ Graph\
+1️⃣5️⃣ Dynamic programming\
+1️⃣6️⃣ Trie\
 
  
 # SOME EXTRA TIPS:
