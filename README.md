@@ -6,7 +6,7 @@ Let me know,if you wish to add anything else to this content.
 
 
 
-#How can I best prepare for interviews?
+# How can I best prepare for interviews?
 
 Practice writing code in a Google doc, then running test cases on the code and optimizing it. Below are some materials that will help. Inside the information there will be a few links, a video, and also a few practice problems to help you know what to expect. Here are the top notes:
 
