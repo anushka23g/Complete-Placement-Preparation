@@ -59,26 +59,26 @@ Always talk through your solution, explain any trade-offs you are making between
 ##  Technical Preparation tips:
 
 The main areas software engineers should prepare to succeed at interview at FAANG:<br>
- ***Algorithm Complexity:*** It's fairly critical that you understand big-O complexity analysis. Again
+📗 ***Algorithm Complexity:*** It's fairly critical that you understand big-O complexity analysis. Again
 run some practice problems to get this down in application. 
-<br>
+<br><br>
 
- ***Sorting:*** Know how to sort. Don't do bubble-sort. You should know the details of at least one
+📗 ***Sorting:*** Know how to sort. Don't do bubble-sort. You should know the details of at least one
 n*log(n) sorting algorithm, preferably two (say, quicksort and merge sort). Merge sort can be
 highly useful in situations where quicksort is impractical, so take a look at it. 
-<br>
+<br><br>
 
- ***Hashtables:*** Arguably the single most important data structure known to mankind. You absolutely
+📗 ***Hashtables:*** Arguably the single most important data structure known to mankind. You absolutely
 should know how they work. Be able to implement one using only arrays in your favorite
 language, in about the space of one interview. 
-<br>
+<br><br>
 
  ***Trees:*** Know about trees; basic tree construction, traversal and manipulation algorithms. 
 Familiarize yourself with binary trees, n-ary trees, and trie-trees. Be familiar with at least one type
 of balanced binary tree, whether it's a red/black tree, a splay tree or an AVL tree, and know how
 it's implemented. <br> Understand tree traversal algorithms: BFS and DFS, and know the difference
 between inorder, postorder and preorder.
-<br>
+<br><br>
  ***Graphs:*** Graphs are really important. There are 3 basic ways to represent a graph in
 memory (objects and pointers, matrix, and adjacency list); familiarize yourself with each
 representation and its pros & cons. You should know the basic graph traversal algorithms:
@@ -90,14 +90,14 @@ algorithms, such as Dijkstra and A*.
 possible. You should especially know about the most famous classes of NP-complete problems,
 such as traveling salesman and the knapsack problem, and be able to recognize them when an
 interviewer asks you them in disguise. Find out what NP-complete means. 
-<br>
+<br><br>
  ***Mathematics:*** Some interviewers ask basic discrete math questions.
 This is more prevalent at Google than at other companies because we are surrounded by
 counting problems, probability problems, and other Discrete Math 101 situations. Spend some
 time before the interview refreshing your memory on (or teaching yourself) the essentials of
 combinatorics and probability. You should be familiar with n-choose-k problems and their ilk – the
 more the better.
-<br>
+<br><br>
  ***Operating Systems:*** Know about processes, threads and concurrency issues. Know about locks
 and mutexes and semaphores and monitors and how they work. Know about deadlock and
 livelock and how to avoid them. Know what resources a processes needs, and a thread needs,
