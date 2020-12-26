@@ -57,8 +57,9 @@ Always talk through your solution, explain any trade-offs you are making between
  
  
 ##  Technical Preparation tips:
-<br><br>
+<br>
 The main areas software engineers should prepare to succeed at interview at FAANG:<br>
+
 📗 ***Algorithm Complexity:*** It's fairly critical that you understand big-O complexity analysis. Again
 run some practice problems to get this down in application. 
 <br><br>
