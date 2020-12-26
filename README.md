@@ -16,13 +16,13 @@ Let me know,if you wish to add anything else to this content.
 
 To get your dream company, you should be good in the following while facing an interview:
 
-Solid Data Structures and Algorithms. Deep understanding of these subjects, how to combine them, how to find/design suitable ones for a problem, etc. This is not surprising as indeed these are the most foundational topics on which much of CS rests.
+📘Solid Data Structures and Algorithms. Deep understanding of these subjects, how to combine them, how to find/design suitable ones for a problem, etc. This is not surprising as indeed these are the most foundational topics on which much of CS rests.
 
-Strong in OOPS. OO Design and principles, subtle aspects of language, strong understanding of the language capability and limitations, its design and implementation.
+📘Strong in OOPS. OO Design and principles, subtle aspects of language, strong understanding of the language capability and limitations, its design and implementation.
 
-Good understanding of OS, DBMS, Networks. These subjects were highlighted whose understanding is extremely important on being a successful software engineer for high-end work.
+📘Good understanding of OS, DBMS, Networks. These subjects were highlighted whose understanding is extremely important on being a successful software engineer for high-end work.
 
-Ability to write well structured and efficient code. Ability to evaluate efficiency of the code at different levels – algo, DS, execution level (OS), hardware to reduce memory as well as time; understanding of different layers of the system, and ability to evaluate/assess the program at these different layers.
+📘Ability to write well structured and efficient code. Ability to evaluate efficiency of the code at different levels – algo, DS, execution level (OS), hardware to reduce memory as well as time; understanding of different layers of the system, and ability to evaluate/assess the program at these different layers.
 
 
 # How can I best prepare for interviews? 
@@ -57,7 +57,7 @@ Always talk through your solution, explain any trade-offs you are making between
  
  
 ##  Technical Preparation tips:
-
+<br><br>
 The main areas software engineers should prepare to succeed at interview at FAANG:<br>
 📗 ***Algorithm Complexity:*** It's fairly critical that you understand big-O complexity analysis. Again
 run some practice problems to get this down in application. 
@@ -73,43 +73,45 @@ should know how they work. Be able to implement one using only arrays in your fa
 language, in about the space of one interview. 
 <br><br>
 
- ***Trees:*** Know about trees; basic tree construction, traversal and manipulation algorithms. 
+📗 ***Trees:*** Know about trees; basic tree construction, traversal and manipulation algorithms. 
 Familiarize yourself with binary trees, n-ary trees, and trie-trees. Be familiar with at least one type
 of balanced binary tree, whether it's a red/black tree, a splay tree or an AVL tree, and know how
 it's implemented. <br> Understand tree traversal algorithms: BFS and DFS, and know the difference
 between inorder, postorder and preorder.
 <br><br>
- ***Graphs:*** Graphs are really important. There are 3 basic ways to represent a graph in
+
+📗 ***Graphs:*** Graphs are really important. There are 3 basic ways to represent a graph in
 memory (objects and pointers, matrix, and adjacency list); familiarize yourself with each
 representation and its pros & cons. You should know the basic graph traversal algorithms:
 breadth-first search and depth-first search. Know their computational complexity, their tradeoffs,
 and how to implement them in real code. If you get a chance, try to study up on fancier
 algorithms, such as Dijkstra and A*.
-<br>
- ***Other data structures:*** You should study up on as many other data structures and algorithms as
+<br><br>
+
+📗 ***Other data structures:*** You should study up on as many other data structures and algorithms as
 possible. You should especially know about the most famous classes of NP-complete problems,
 such as traveling salesman and the knapsack problem, and be able to recognize them when an
 interviewer asks you them in disguise. Find out what NP-complete means. 
 <br><br>
- ***Mathematics:*** Some interviewers ask basic discrete math questions.
+📗 ***Mathematics:*** Some interviewers ask basic discrete math questions.
 This is more prevalent at Google than at other companies because we are surrounded by
 counting problems, probability problems, and other Discrete Math 101 situations. Spend some
 time before the interview refreshing your memory on (or teaching yourself) the essentials of
 combinatorics and probability. You should be familiar with n-choose-k problems and their ilk – the
 more the better.
 <br><br>
- ***Operating Systems:*** Know about processes, threads and concurrency issues. Know about locks
+📗 ***Operating Systems:*** Know about processes, threads and concurrency issues. Know about locks
 and mutexes and semaphores and monitors and how they work. Know about deadlock and
 livelock and how to avoid them. Know what resources a processes needs, and a thread needs,
 and how context switching works, and how it's initiated by the operating system and underlying
 hardware. Know a little about scheduling. The world is rapidly moving towards multi-core, so
 know the fundamentals of "modern" concurrency constructs. 
-<br>
- ***Coding:*** You should know at least one programming language really well, and it should
+<br><br>
+📗 ***Coding:*** You should know at least one programming language really well, and it should
 preferably be C++ or Java. C# is OK too, since it's pretty similar to Java. You will be expected to
 write some code in at least some of your interviews. You will be expected to know a fair amount
 of detail about your favorite programming language.
-<br><br>
+<br><br><br>
 
 # SOME EXTRA TIPS:
  
