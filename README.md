@@ -141,4 +141,4 @@ Will be soon adding resources for CS Fundamentals as well...
  Let me know your views on the repository or any changes or improvements and if you wish to contribute too at: anushkagupta20128@gmail.com <br>
  ***LinkedIn: https://www.linkedin.com/in/anushka-gupta-679496196/***
  
- *** :heart: Thank you all for making this repository trend at Number 11, in the worldwide trending on Github :heart: ***
+ :heart: ***Thank you all for making this repository trend at Number 11, in the worldwide trending on Github***  :heart:
