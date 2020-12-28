@@ -150,8 +150,9 @@ of detail about your favorite programming language.
 :heavy_check_mark: For examples of project you can check my other repositories [here](https://github.com/anushka23g) , Will be adding more projects soon!
 <br>
 
-:heavy_check_mark: If you wish to learn Data Structures and Algorithms in a fun way :stuck_out_tongue_closed_eyes: , try working on this project, It will help you clear a lot of concepts, make you confident about your skills and you'll gain better knowledge of DSA. You can also contribute to the project and help the community if you wish to!  
-<br>
+:heavy_check_mark: If you are a beginner and wish to learn Data Structures and Algorithms in a fun way :stuck_out_tongue_closed_eyes: , try working on [this](https://github.com/anushka23g/Learning-Made-Easy) project, It will help you clear a lot of concepts, make you confident about your skills and you'll gain better knowledge of DSA. <br>
+:unicorn: You can also contribute to the project and help the community if you wish to!  
+<br><br>
 
 # 🏆 SOME EXTRA TIPS:
  
