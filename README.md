@@ -14,6 +14,8 @@ Let me know,if you wish to add anything else to this content.
 ### :postbox: The pdfs added above consist of the ***500 Most asked questions on DSA in FAANG interviews- topicwise*** 
 <br><br>
 
+***NOTE: The links to the solutions in the pdf are provided as well, but they will work only after you download the file to your machine***
+
 # 🏆 What do I need to prepare for the interviews?
 
 To get your dream company, you should be good in the following while facing an interview:
