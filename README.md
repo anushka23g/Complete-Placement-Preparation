@@ -36,7 +36,7 @@ It takes some time for languages to master, and if you spend most of your time a
  <br><br>
 ## Pick up a language you have worked with and you are confident with!
 
-But if you have enough time, I'd suggest you to learn the following languages:
+But if you have enough time, I'd suggest you to learn the most used languages during candidates(this is just my suggestion, you can also go with any other language you want): <br>
 :closed_book: C++ <br>
 :closed_book: Java <br>
 :closed_book: Python <br>
