@@ -12,18 +12,20 @@ The folders above consist of all the required questions and their solutions as w
 Let me know,if you wish to add anything else to this content.
 
 ### :postbox: The pdfs added above consist of the ***500 Most asked questions on DSA in FAANG interviews- topicwise*** 
+<br><br><br>
 
 # 🏆 What do I need to prepare for the interviews?
 
 To get your dream company, you should be good in the following while facing an interview:
 
-📘Solid Data Structures and Algorithms. Deep understanding of these subjects, how to combine them, how to find/design suitable ones for a problem, etc. This is not surprising as indeed these are the most foundational topics on which much of CS rests.
+📘***Solid Data Structures and Algorithms.*** Deep understanding of these subjects, how to combine them, how to find/design suitable ones for a problem, etc. This is not surprising as indeed these are the most foundational topics on which much of CS rests.
 
-📘Strong in OOPS. OO Design and principles, subtle aspects of language, strong understanding of the language capability and limitations, its design and implementation.
+📘***Strong in OOPS.*** OO Design and principles, subtle aspects of language, strong understanding of the language capability and limitations, its design and implementation.
 
-📘Good understanding of OS, DBMS, Networks. These subjects were highlighted whose understanding is extremely important on being a successful software engineer for high-end work.
+📘***Good understanding of OS, DBMS, Networks.*** These subjects were highlighted whose understanding is extremely important on being a successful software engineer for high-end work.
 
-📘Ability to write well structured and efficient code. Ability to evaluate efficiency of the code at different levels – algo, DS, execution level (OS), hardware to reduce memory as well as time; understanding of different layers of the system, and ability to evaluate/assess the program at these different layers.
+📘***Ability to write well structured and efficient code.*** Ability to evaluate efficiency of the code at different levels – algo, DS, execution level (OS), hardware to reduce memory as well as time; understanding of different layers of the system, and ability to evaluate/assess the program at these different layers.
+<br><br><br>
 
 # 🏆 Picking a Language
 Before anything else, you need to pick a programming language to do your interviews in. 
@@ -39,6 +41,7 @@ But if you have enough time, I'd suggest you to learn the following languages:
 :closed_book: Java
 :closed_book: Python 
 :closed_book: C
+<br>
 
 ## Some of the languages used at various organisations as reported online:
 
@@ -46,8 +49,10 @@ But if you have enough time, I'd suggest you to learn the following languages:
 :orange_book: Facebook: PHP, C++, Python, Java, Perl. High regard for dynamic/scripting languages. [sources]("https://stackoverflow.com/questions/3690092/what-programming-language-does-facebook-use")
 :orange_book: Google: C/C++, Java, Python, Javascript, Go [sources]("https://stackoverflow.com/questions/4773379/official-programming-languages-at-google")
 :orange_book: Microsoft: C++, C#, Java, Python [sources]("http://www.eweek.com/c/a/Application-Development/Top-10-Microsoft-Programming-Languages-704642/")
+<br>
 
 ***Tip: Go for the language you are comfortable with, doing any kind of problem, solving things and writing code AND also please know about the internal functionalities as well and how different data structures are implemented in it.***
+<br><br><br>
 
 # 🏆 How can I best prepare for interviews? 
 
@@ -57,6 +62,7 @@ You will be given a problem or puzzle to solve and you’ll need to talk about y
 
  
 Always talk through your solution, explain any trade-offs you are making between time and memory and ask any questions you need to clarify the question. It is worthwhile to talk about your initial thoughts to a question, though a brute force solution will be received less well than taking time to compose a more efficient solution.
+<br><br><br>
  
  
  # 🏆  The sequence for studying Data Structures and Algorithms should be as follows: 
@@ -78,7 +84,8 @@ Always talk through your solution, explain any trade-offs you are making between
 1️⃣5️⃣ Greedy\
 1️⃣6️⃣ Dynamic programming\
 1️⃣7️⃣Trie
- 
+ <br><br><br>
+
  
 # 🏆  Technical Preparation tips:
 <br>
