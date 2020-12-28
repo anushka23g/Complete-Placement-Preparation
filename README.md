@@ -13,7 +13,7 @@ Let me know,if you wish to add anything else to this content.
 
 ### The pdfs added above consist of the ***500 Most asked questions on DSA in FAANG interviews- topicwise*** 
 
-# What do I need to prepare for the interviews?
+:trophy: # What do I need to prepare for the interviews?
 
 To get your dream company, you should be good in the following while facing an interview:
 
@@ -25,8 +25,31 @@ To get your dream company, you should be good in the following while facing an i
 
 📘Ability to write well structured and efficient code. Ability to evaluate efficiency of the code at different levels – algo, DS, execution level (OS), hardware to reduce memory as well as time; understanding of different layers of the system, and ability to evaluate/assess the program at these different layers.
 
+:trophy: # Picking a Language
+Before anything else, you need to pick a programming language to do your interviews in. 
 
-# How can I best prepare for interviews? 
+I do support learning and writing code in different programming languages. But when it comes to the programming interview preparation, I feel it’s important to choose one language to focus your prep on and get to know it very well.
+
+It takes some time for languages to master, and if you spend most of your time and resources on mastering algorithms, there's hardly any spare effort left to master a new language. If you are comfortable with using one of the mainstream languages, only for interviews, there is no good need to learn a new language.
+ 
+## Pick up a language you have worked with and you are confident with!
+
+But if you have enough time, I'd suggest you to learn the following languages:
+C++
+Java
+Python 
+C
+
+## Some of the languages used at various organisations as reported online:
+
+Amazon: Java, Javascript, Ruby, Python, Perl [sources]("https://www.quora.com/What-programming-languages-are-used-at-Amazon")
+Facebook: PHP, C++, Python, Java, Perl. High regard for dynamic/scripting languages. [sources]("https://stackoverflow.com/questions/3690092/what-programming-language-does-facebook-use")
+Google: C/C++, Java, Python, Javascript, Go [sources]("https://stackoverflow.com/questions/4773379/official-programming-languages-at-google")
+Microsoft: C++, C#, Java, Python [sources]("http://www.eweek.com/c/a/Application-Development/Top-10-Microsoft-Programming-Languages-704642/")
+
+***Tip: Go for the language you are comfortable with, doing any kind of problem, solving things and writing code AND also please know about the internal functionalities as well and how different data structures are implemented in it.***
+
+:trophy: # How can I best prepare for interviews? 
 
 Practice writing code in a Google doc, then running test cases on the code and optimizing it. Below are some materials that will help. Inside the information there will be a few links, a video, and also a few practice problems to help you know what to expect. Here are the top notes:
 
@@ -36,7 +59,7 @@ You will be given a problem or puzzle to solve and you’ll need to talk about y
 Always talk through your solution, explain any trade-offs you are making between time and memory and ask any questions you need to clarify the question. It is worthwhile to talk about your initial thoughts to a question, though a brute force solution will be received less well than taking time to compose a more efficient solution.
  
  
- ##  The sequence for studying Data Structures and Algorithms should be as follows: 
+ :trophy: #  The sequence for studying Data Structures and Algorithms should be as follows: 
 
 1️⃣  Arrays & Matrix \
 2️⃣  String\
@@ -57,7 +80,7 @@ Always talk through your solution, explain any trade-offs you are making between
 1️⃣7️⃣Trie
  
  
-##  Technical Preparation tips:
+:trophy: #  Technical Preparation tips:
 <br>
 The main areas software engineers should prepare to succeed at interview at FAANG:<br>
 
@@ -115,7 +138,7 @@ write some code in at least some of your interviews. You will be expected to kno
 of detail about your favorite programming language.
 <br><br><br>
 
-# SOME EXTRA TIPS:
+:trophy: # SOME EXTRA TIPS:
  
 ## Coding Practice
 [LeetCode](https://leetcode.com/)  (Go to Problems -> Algorithms)\
@@ -128,7 +151,7 @@ of detail about your favorite programming language.
 [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
 
 
-# Projects:
+:trophy: # Projects:
 
 For examples of projects you can check my other repositories [here](https://github.com/anushka23g) , Will be adding more projects soon!
  
