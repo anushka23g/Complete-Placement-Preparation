@@ -1,4 +1,4 @@
- # 🏆 Placement-Preparation- Complete Roadmap 🏆
+ # :gift: Placement-Preparation- Complete Roadmap :gift:
 This repository consists of all the necessary questions and their solutions required for cracking the coding rounds and technical interviews at tech companies as well. And this content will surely help you to crack your dream company. This material has been taken and combined from various different sources.
 It will be a complete roadmap for your placement prep.
 
@@ -10,7 +10,7 @@ I will keep on updating this repository, If I feel that anything is missing.
 The folders above consist of all the required questions and their solutions as well, according to each topic
  
 Let me know,if you wish to add anything else to this content.
-<br>
+
 ### :postbox: The pdfs added above consist of the ***500 Most asked questions on DSA in FAANG interviews- topicwise*** 
 <br><br>
 
@@ -41,7 +41,6 @@ But if you have enough time, I'd suggest you to learn the following languages:
 :closed_book: Java <br>
 :closed_book: Python <br>
 :closed_book: C <br>
-<br>
 <br>
 ## Some of the languages used at various organisations as reported online:
 
