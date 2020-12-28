@@ -1,8 +1,8 @@
- # Placement-Preparation
+ # 🏆 Placement-Preparation- Complete Roadmap 🏆
 This repository consists of all the necessary questions and their solutions required for cracking the coding rounds and technical interviews at tech companies as well. And this content will surely help you to crack your dream company. This material has been taken and combined from various different sources.
 It will be a complete roadmap for your placement prep.
 
-These resources helped me to get an internship at my Dream company, and I hope it will help you too! 
+These resources helped me to get an internship at my Dream company ***Amazon***, and I hope it will help you too! 
 
 I will keep on updating this repository, If I feel that anything is missing. 
 
@@ -11,7 +11,7 @@ The folders above consist of all the required questions and their solutions as w
  
 Let me know,if you wish to add anything else to this content.
 
-### The pdfs added above consist of the ***500 Most asked questions on DSA in FAANG interviews- topicwise*** 
+### :postbox: The pdfs added above consist of the ***500 Most asked questions on DSA in FAANG interviews- topicwise*** 
 
 # 🏆 What do I need to prepare for the interviews?
 
@@ -35,17 +35,17 @@ It takes some time for languages to master, and if you spend most of your time a
 ## Pick up a language you have worked with and you are confident with!
 
 But if you have enough time, I'd suggest you to learn the following languages:
-C++
-Java
-Python 
-C
+:closed_book: C++
+:closed_book: Java
+:closed_book: Python 
+:closed_book: C
 
 ## Some of the languages used at various organisations as reported online:
 
-Amazon: Java, Javascript, Ruby, Python, Perl [sources]("https://www.quora.com/What-programming-languages-are-used-at-Amazon")
-Facebook: PHP, C++, Python, Java, Perl. High regard for dynamic/scripting languages. [sources]("https://stackoverflow.com/questions/3690092/what-programming-language-does-facebook-use")
-Google: C/C++, Java, Python, Javascript, Go [sources]("https://stackoverflow.com/questions/4773379/official-programming-languages-at-google")
-Microsoft: C++, C#, Java, Python [sources]("http://www.eweek.com/c/a/Application-Development/Top-10-Microsoft-Programming-Languages-704642/")
+:orange_book: Amazon: Java, Javascript, Ruby, Python, Perl [sources]("https://www.quora.com/What-programming-languages-are-used-at-Amazon")
+:orange_book: Facebook: PHP, C++, Python, Java, Perl. High regard for dynamic/scripting languages. [sources]("https://stackoverflow.com/questions/3690092/what-programming-language-does-facebook-use")
+:orange_book: Google: C/C++, Java, Python, Javascript, Go [sources]("https://stackoverflow.com/questions/4773379/official-programming-languages-at-google")
+:orange_book: Microsoft: C++, C#, Java, Python [sources]("http://www.eweek.com/c/a/Application-Development/Top-10-Microsoft-Programming-Languages-704642/")
 
 ***Tip: Go for the language you are comfortable with, doing any kind of problem, solving things and writing code AND also please know about the internal functionalities as well and how different data structures are implemented in it.***
 
@@ -138,23 +138,25 @@ write some code in at least some of your interviews. You will be expected to kno
 of detail about your favorite programming language.
 <br><br><br>
 
-# 🏆 SOME EXTRA TIPS:
- 
-## Coding Practice
-[LeetCode](https://leetcode.com/)  (Go to Problems -> Algorithms)\
-[GeeksForGeeks](https://practice.geeksforgeeks.org/explore/?page=1)\
-[Hackerrank](https://www.hackerrank.com/)
-
-## General Interview Prep
-[GeeksforGeeks](https://www.geeksforgeeks.org/) \
-[High Scalability](http://highscalability.squarespace.com/) \
-[Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
-
 
 # 🏆 Projects:
 
-For examples of projects you can check my other repositories [here](https://github.com/anushka23g) , Will be adding more projects soon!
+:heavy_check_mark: For examples of projects you can check my other repositories [here](https://github.com/anushka23g) , Will be adding more projects soon!
+<br><br>
+
+# 🏆 SOME EXTRA TIPS:
  
+## :beginner: Coding Practice
+📒 [LeetCode](https://leetcode.com/)  (Go to Problems -> Algorithms)\
+📒 [GeeksForGeeks](https://practice.geeksforgeeks.org/explore/?page=1)\
+📒 [Hackerrank](https://www.hackerrank.com/)
+
+## :beginner: General Interview Prep
+📚 [GeeksforGeeks](https://www.geeksforgeeks.org/) \
+📚 [High Scalability](http://highscalability.squarespace.com/) \
+📚 [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
+
+ <br><br>
 Will be soon adding resources for CS Fundamentals as well...
  
  
