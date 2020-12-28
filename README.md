@@ -10,9 +10,9 @@ I will keep on updating this repository, If I feel that anything is missing.
 The folders above consist of all the required questions and their solutions as well, according to each topic
  
 Let me know,if you wish to add anything else to this content.
-
+<br>
 ### :postbox: The pdfs added above consist of the ***500 Most asked questions on DSA in FAANG interviews- topicwise*** 
-<br><br><br>
+<br><br>
 
 # 🏆 What do I need to prepare for the interviews?
 
@@ -33,22 +33,22 @@ Before anything else, you need to pick a programming language to do your intervi
 I do support learning and writing code in different programming languages. But when it comes to the programming interview preparation, I feel it’s important to choose one language to focus your prep on and get to know it very well.
 
 It takes some time for languages to master, and if you spend most of your time and resources on mastering algorithms, there's hardly any spare effort left to master a new language. If you are comfortable with using one of the mainstream languages, only for interviews, there is no good need to learn a new language.
- 
+ <br><br>
 ## Pick up a language you have worked with and you are confident with!
 
 But if you have enough time, I'd suggest you to learn the following languages:
-:closed_book: C++
-:closed_book: Java
-:closed_book: Python 
-:closed_book: C
+:closed_book: C++ <br>
+:closed_book: Java <br>
+:closed_book: Python <br>
+:closed_book: C <br>
 <br>
-
+<br>
 ## Some of the languages used at various organisations as reported online:
 
-:orange_book: Amazon: Java, Javascript, Ruby, Python, Perl [sources]("https://www.quora.com/What-programming-languages-are-used-at-Amazon")
-:orange_book: Facebook: PHP, C++, Python, Java, Perl. High regard for dynamic/scripting languages. [sources]("https://stackoverflow.com/questions/3690092/what-programming-language-does-facebook-use")
-:orange_book: Google: C/C++, Java, Python, Javascript, Go [sources]("https://stackoverflow.com/questions/4773379/official-programming-languages-at-google")
-:orange_book: Microsoft: C++, C#, Java, Python [sources]("http://www.eweek.com/c/a/Application-Development/Top-10-Microsoft-Programming-Languages-704642/")
+:orange_book: Amazon: Java, Javascript, Ruby, Python, Perl [sources]("https://www.quora.com/What-programming-languages-are-used-at-Amazon") <br>
+:orange_book: Facebook: PHP, C++, Python, Java, Perl. High regard for dynamic/scripting languages. [sources]("https://stackoverflow.com/questions/3690092/what-programming-language-does-facebook-use") <br>
+:orange_book: Google: C/C++, Java, Python, Javascript, Go [sources]("https://stackoverflow.com/questions/4773379/official-programming-languages-at-google") <br>
+:orange_book: Microsoft: C++, C#, Java, Python [sources]("http://www.eweek.com/c/a/Application-Development/Top-10-Microsoft-Programming-Languages-704642/") <br>
 <br>
 
 ***Tip: Go for the language you are comfortable with, doing any kind of problem, solving things and writing code AND also please know about the internal functionalities as well and how different data structures are implemented in it.***
