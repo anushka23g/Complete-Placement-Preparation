@@ -66,8 +66,8 @@ Always talk through your solution, explain any trade-offs you are making between
  
  # 🏆  The sequence for studying Data Structures and Algorithms should be as follows: 
 
-1️⃣  Arrays & Matrix \
-2️⃣  String\
+1️⃣  [Arrays]("https://github.com/anushka23g/Complete-Placement-Preparation/blob/main/ARRAYS.pdf") & [Matrix]("https://github.com/anushka23g/Complete-Placement-Preparation/blob/main/MATRIX.pdf") \
+2️⃣  [String]("https://github.com/anushka23g/Complete-Placement-Preparation/blob/main/STRING.pdf")\
 3️⃣ Searching\
 4️⃣ Sorting\
 5️⃣ Hashing\
