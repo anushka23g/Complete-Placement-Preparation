@@ -176,6 +176,10 @@ of detail about your favorite programming language.
 📚 [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
 
  <br><br>
+ 
+DONT FORGET TO CHECKOUT my followup article more better preparation [HERE](https://medium.com/getpieces/snippetizing-your-coding-interviews-4ec4eb2f0d89) - Has more tips and tricks on how I prepared!!
+
+
 Will be soon adding resources for CS Fundamentals as well...
  
  
