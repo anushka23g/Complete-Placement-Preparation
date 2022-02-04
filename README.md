@@ -178,10 +178,9 @@ of detail about your favorite programming language.
 📚 [High Scalability](http://highscalability.squarespace.com/) \
 📚 [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
 
- <br>
+ ***If you like the content and wish to support it*** :heart:: 
  
- 
-If you love the content and wish to support it <3 <a href="https://www.buymeacoffee.com/anushka23g" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+ <a href="https://www.buymeacoffee.com/anushka23g" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 <br> 
 
 
@@ -196,4 +195,4 @@ Will be soon adding resources for CS Fundamentals as well...
  <br>
  Let me know your views on the repository or any changes or improvements and if you wish to contribute too at: anushkagupta20128@gmail.com or ***[LinkedIn](https://www.linkedin.com/in/anushka-gupta-679496196/)***
  
- :heart: ***Thank you all for making this repository trend at Number 11, in the worldwide trending on Github***  :heart:
+ :heart: ***Thank you all for making this repository trend at Number 10, in the worldwide trending on Github*** 
