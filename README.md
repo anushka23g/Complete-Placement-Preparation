@@ -26,6 +26,13 @@ Let me know,if you wish to add anything else to this content.
 <br><br>
 
 
+ ***If you like the content and wish to support it*** :heart:: 
+ 
+ <a href="https://www.buymeacoffee.com/anushka23g" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<br> 
+
+
+
 # 🏆 What do I need to prepare for the interviews?
 
 To get your dream company, you should be good in the following while facing an interview:
@@ -177,11 +184,6 @@ of detail about your favorite programming language.
 📚 [GeeksforGeeks](https://www.geeksforgeeks.org/) \
 📚 [High Scalability](http://highscalability.squarespace.com/) \
 📚 [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
-
- ***If you like the content and wish to support it*** :heart:: 
- 
- <a href="https://www.buymeacoffee.com/anushka23g" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-<br> 
 
 
 DONT FORGET TO CHECKOUT my followup article more better preparation [HERE](https://medium.com/getpieces/snippetizing-your-coding-interviews-4ec4eb2f0d89) - Has more tips and tricks on how I prepared!!
