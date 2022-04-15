@@ -1,12 +1,14 @@
-# THE PDF FILES CAN BE FOUND [HERE](pdfs)
-# THE MARKDOWN FILES CAN BE FOUND [HERE](md)
 
- # :gift: Placement-Preparation- Complete Roadmap :gift:
+ # :gift: Placement-Preparation- Complete Roadmap :gift:    
+
 <br>
 This repository consists of all the necessary questions and their solutions required for cracking the coding rounds and technical interviews at tech companies as well. And this content will surely help you to crack your dream company. This material has been taken and combined from various different sources.
 It will be a complete roadmap for your placement prep.
  
-<br><br> 
+<br>
+<br>
+
+
 # 🚀 Getting Started
 <br>
 
@@ -22,8 +24,18 @@ Let me know,if you wish to add anything else to this content.
 ### :postbox: The pdfs added above consist of the ***500 Most asked questions on DSA in FAANG interviews- topicwise*** 
 <br>
 
-***NOTE: The links to the solutions in the pdf are provided as well, but they will work only after you download the file to your machine***
+# THE PDF FILES CAN BE FOUND [HERE](pdfs)
+# THE MARKDOWN FILES CAN BE FOUND [HERE](md)
+
 <br><br>
+
+
+ ***If you like the content and wish to support it*** :heart:: 
+ 
+ <a href="https://www.buymeacoffee.com/anushka23g" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<br> 
+
+
 
 
 # 🏆 What do I need to prepare for the interviews?
@@ -178,7 +190,10 @@ of detail about your favorite programming language.
 📚 [High Scalability](http://highscalability.squarespace.com/) \
 📚 [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
 
- <br><br>
+
+DONT FORGET TO CHECKOUT my followup article more better preparation [HERE](https://medium.com/getpieces/snippetizing-your-coding-interviews-4ec4eb2f0d89) - Has more tips and tricks on how I prepared!!
+
+
 Will be soon adding resources for CS Fundamentals as well...
  
  
@@ -187,4 +202,4 @@ Will be soon adding resources for CS Fundamentals as well...
  <br>
  Let me know your views on the repository or any changes or improvements and if you wish to contribute too at: anushkagupta20128@gmail.com or ***[LinkedIn](https://www.linkedin.com/in/anushka-gupta-679496196/)***
  
- :heart: ***Thank you all for making this repository trend at Number 11, in the worldwide trending on Github***  :heart:
+ :heart: ***Thank you all for making this repository trend at Number 10, in the worldwide trending on Github*** 
