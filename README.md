@@ -1,4 +1,6 @@
+
  # :gift: Placement-Preparation- Complete Roadmap :gift:    
+
 <br>
 This repository consists of all the necessary questions and their solutions required for cracking the coding rounds and technical interviews at tech companies as well. And this content will surely help you to crack your dream company. This material has been taken and combined from various different sources.
 It will be a complete roadmap for your placement prep.
@@ -22,7 +24,9 @@ Let me know,if you wish to add anything else to this content.
 ### :postbox: The pdfs added above consist of the ***500 Most asked questions on DSA in FAANG interviews- topicwise*** 
 <br>
 
-***NOTE: The links to the solutions in the pdf are provided as well, but they will work only after you download the file to your machine***
+# THE PDF FILES CAN BE FOUND [HERE](pdfs)
+# THE MARKDOWN FILES CAN BE FOUND [HERE](md)
+
 <br><br>
 
 
@@ -30,6 +34,7 @@ Let me know,if you wish to add anything else to this content.
  
  <a href="https://www.buymeacoffee.com/anushka23g" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 <br> 
+
 
 
 
