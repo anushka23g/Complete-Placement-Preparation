@@ -162,7 +162,7 @@ hardware. Know a little about scheduling. The world is rapidly moving towards mu
 know the fundamentals of "modern" concurrency constructs. 
 <br><br>
 📗 ***Coding:*** You should know at least one programming language really well, and it should
-preferably be C++ or Java. C# is OK too, since it's pretty similar to Java. You will be expected to
+preferably be [C++](https://www.scaler.com/topics/cpp/) or Java. C# is OK too, since it's pretty similar to Java. You will be expected to
 write some code in at least some of your interviews. You will be expected to know a fair amount
 of detail about your favorite programming language.
 <br><br><br>
