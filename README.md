@@ -41,11 +41,11 @@ Let me know,if you wish to add anything else to this content.
 
 To get your dream company, you should be good in the following while facing an interview:
 
-📘***Solid Data Structures and Algorithms.*** Deep understanding of these subjects, how to combine them, how to find/design suitable ones for a problem, etc. This is not surprising as indeed these are the most foundational topics on which much of CS rests.
+📘[***Solid Data Structures and Algorithms.***](https://bit.ly/3Vcd98Z) Deep understanding of these subjects, how to combine them, how to find/design suitable ones for a problem, etc. This is not surprising as indeed these are the most foundational topics on which much of CS rests.
 
-📘***Strong in OOPS.*** OO Design and principles, subtle aspects of language, strong understanding of the language capability and limitations, its design and implementation.
+📘[***Strong in OOPS.***](https://bit.ly/3YnYKZN) OO Design and principles, subtle aspects of language, strong understanding of the language capability and limitations, its design and implementation.
 
-📘***Good understanding of OS, DBMS, Networks.*** These subjects were highlighted whose understanding is extremely important on being a successful software engineer for high-end work.
+📘[***Good understanding of OS, DBMS, Networks.***](https://bit.ly/3YnC385) These subjects were highlighted whose understanding is extremely important on being a successful software engineer for high-end work.
 
 📘***Ability to write well structured and efficient code.*** Ability to evaluate efficiency of the code at different levels – algo, DS, execution level (OS), hardware to reduce memory as well as time; understanding of different layers of the system, and ability to evaluate/assess the program at these different layers.
 <br><br><br>
@@ -60,9 +60,9 @@ It takes some time for languages to master, and if you spend most of your time a
 ## Pick up a language you have worked with and you are confident with!
 
 But if you have enough time, I'd suggest you to learn the most used languages during candidates<br> (this is just my suggestion, you can also go with any other language you want or you are comfortable with): <br>
-:closed_book: C++ <br>
-:closed_book: Java <br>
-:closed_book: Python <br>
+:closed_book: [C++](https://bit.ly/3uSgDCJ) <br>
+:closed_book: [Java](https://bit.ly/3UY1SsL) <br>
+:closed_book: [Python](https://bit.ly/3PnIjsF) <br>
 :closed_book: C <br>
 <br>
 ## Some of the languages used at various organisations as reported online:
@@ -84,57 +84,68 @@ You will be given a problem or puzzle to solve and you’ll need to talk about y
 
  
 Always talk through your solution, explain any trade-offs you are making between time and memory and ask any questions you need to clarify the question. It is worthwhile to talk about your initial thoughts to a question, though a brute force solution will be received less well than taking time to compose a more efficient solution.
+
+[Best Free Resource To Learn Coding, DSA And Interview Prep](https://bit.ly/3HEfXbB)
 <br><br><br>
  
  
  # 🏆  The sequence for studying Data Structures and Algorithms should be as follows: 
 
-1️⃣  [Arrays]("https://github.com/anushka23g/Complete-Placement-Preparation/blob/main/ARRAYS.pdf") & [Matrix]("https://github.com/anushka23g/Complete-Placement-Preparation/blob/main/MATRIX.pdf") \
-2️⃣  [String]("https://github.com/anushka23g/Complete-Placement-Preparation/blob/main/STRING.pdf") \
-3️⃣ Searching\
-4️⃣ Sorting\
-5️⃣ Hashing\
-6️⃣ Stack\
-7️⃣ Queue\
-8️⃣ Linked List\
-9️⃣ Recursion\
-1️⃣0️⃣ Backtracking\
-1️⃣1️⃣ Tree\
-1️⃣2️⃣ BST\
-1️⃣3️⃣ Heap or priority queue\
-1️⃣4️⃣ Graph\
-1️⃣5️⃣ Greedy\
-1️⃣6️⃣ Dynamic programming\
-1️⃣7️⃣Trie
+1️⃣  [Arrays & Matrix](https://bit.ly/3VVmKSp) \
+2️⃣  [String](https://bit.ly/3FQcyFi) \
+3️⃣  [Searching](https://bit.ly/3hwsVO6) \
+4️⃣  [Sorting](https://bit.ly/3hwsVO6) \
+5️⃣  [Hashing](https://bit.ly/3FUol5B) \
+6️⃣  [Stack](https://bit.ly/3HCbS7T) \
+7️⃣  [Queue](https://bit.ly/3HCbS7T) \
+8️⃣  [Linked List](https://bit.ly/3HIB9NI) \
+9️⃣  [Recursion](https://bit.ly/3YpU5Xi) \
+1️⃣0️⃣  [Backtracking](https://bit.ly/3YpU5Xi) \
+1️⃣1️⃣  [Tree](https://bit.ly/3BCaM8q) \
+1️⃣2️⃣  [BST](https://bit.ly/3WjhdoI) \
+1️⃣3️⃣  [Heap or priority queue](https://bit.ly/3Yx8yRl) \
+1️⃣4️⃣  [Graph](https://bit.ly/3BB7zG6) \
+1️⃣5️⃣  [Greedy](https://bit.ly/3W5dKdB) \
+1️⃣6️⃣  [Dynamic programming](https://bit.ly/3UWcsAg) \
+1️⃣7️⃣  [Trie](https://bit.ly/3YtXO6d)
  <br><br><br>
 
  
 # 🏆  Technical Preparation tips:
 <br>
-The main areas software engineers should prepare to succeed at interview at FAANG:<br>
+The main areas software engineers should prepare to succeed at interview at FAANG:
+<br><br>
+
+📗 [***Mathematics:***](https://bit.ly/3j1V9k9) Some interviewers ask basic discrete math questions.
+This is more prevalent at Google than at other companies because we are surrounded by
+counting problems, probability problems, and other Discrete Math 101 situations. Spend some
+time before the interview refreshing your memory on (or teaching yourself) the essentials of
+combinatorics and probability. You should be familiar with n-choose-k problems and their ilk – the
+more the better.
+<br><br>
 
 📗 ***Algorithm Complexity:*** It's fairly critical that you understand big-O complexity analysis. Again
 run some practice problems to get this down in application. 
 <br><br>
 
-📗 ***Sorting:*** Know how to sort. Don't do bubble-sort. You should know the details of at least one
+📗 [***Sorting:***](https://bit.ly/3hwsVO6) Know how to sort. Don't do bubble-sort. You should know the details of at least one
 n*log(n) sorting algorithm, preferably two (say, quicksort and merge sort). Merge sort can be
 highly useful in situations where quicksort is impractical, so take a look at it. 
 <br><br>
 
-📗 ***Hashtables:*** Arguably the single most important data structure known to mankind. You absolutely
+📗 [***Hashtables:***](https://bit.ly/3FUol5B) Arguably the single most important data structure known to mankind. You absolutely
 should know how they work. Be able to implement one using only arrays in your favorite
 language, in about the space of one interview. 
 <br><br>
 
-📗 ***Trees:*** Know about trees; basic tree construction, traversal and manipulation algorithms. 
+📗 [***Trees:***](https://bit.ly/3BCaM8q) Know about trees; basic tree construction, traversal and manipulation algorithms. 
 Familiarize yourself with binary trees, n-ary trees, and trie-trees. Be familiar with at least one type
 of balanced binary tree, whether it's a red/black tree, a splay tree or an AVL tree, and know how
 it's implemented. <br> Understand tree traversal algorithms: BFS and DFS, and know the difference
 between inorder, postorder and preorder.
 <br><br>
 
-📗 ***Graphs:*** Graphs are really important. There are 3 basic ways to represent a graph in
+📗 [***Graphs:***](https://bit.ly/3BB7zG6) Graphs are really important. There are 3 basic ways to represent a graph in
 memory (objects and pointers, matrix, and adjacency list); familiarize yourself with each
 representation and its pros & cons. You should know the basic graph traversal algorithms:
 breadth-first search and depth-first search. Know their computational complexity, their tradeoffs,
@@ -147,14 +158,8 @@ possible. You should especially know about the most famous classes of NP-complet
 such as traveling salesman and the knapsack problem, and be able to recognize them when an
 interviewer asks you them in disguise. Find out what NP-complete means. 
 <br><br>
-📗 ***Mathematics:*** Some interviewers ask basic discrete math questions.
-This is more prevalent at Google than at other companies because we are surrounded by
-counting problems, probability problems, and other Discrete Math 101 situations. Spend some
-time before the interview refreshing your memory on (or teaching yourself) the essentials of
-combinatorics and probability. You should be familiar with n-choose-k problems and their ilk – the
-more the better.
-<br><br>
-📗 ***Operating Systems:*** Know about processes, threads and concurrency issues. Know about locks
+
+📗 [***Operating Systems:***](https://bit.ly/3YnYKZN) Know about processes, threads and concurrency issues. Know about locks
 and mutexes and semaphores and monitors and how they work. Know about deadlock and
 livelock and how to avoid them. Know what resources a processes needs, and a thread needs,
 and how context switching works, and how it's initiated by the operating system and underlying
@@ -162,7 +167,7 @@ hardware. Know a little about scheduling. The world is rapidly moving towards mu
 know the fundamentals of "modern" concurrency constructs. 
 <br><br>
 📗 ***Coding:*** You should know at least one programming language really well, and it should
-preferably be C++ or Java. C# is OK too, since it's pretty similar to Java. You will be expected to
+preferably be [C++](https://bit.ly/3uSgDCJ) or [Java](https://bit.ly/3UY1SsL). [Python](https://bit.ly/3PnIjsF) is good too. You will be expected to
 write some code in at least some of your interviews. You will be expected to know a fair amount
 of detail about your favorite programming language.
 <br><br><br>
@@ -177,9 +182,18 @@ of detail about your favorite programming language.
 :unicorn: You can also contribute to the project and help the community if you wish to!  
 <br><br>
 
+# 🏆 Important Sheets:
+
+Sharing some of the most popular sheets here the sheets here that might help you with the prep :) 
+<br><br>
+📘 [Striver SDE Sheet Problems](https://bit.ly/3j6PrO4) <br><br>
+📘 [Love Babbar SDE Sheet](https://bit.ly/3hm5KGf) 
+<br><br>
+
 # 🏆 SOME EXTRA TIPS:
  
 ## :beginner: Coding Practice
+📒 [Codestudio](https://bit.ly/3HEfXbB)\
 📒 [LeetCode](https://leetcode.com/)  (Go to Problems -> Algorithms)\
 📒 [GeeksForGeeks](https://practice.geeksforgeeks.org/explore/?page=1)\
 📒 [Hackerrank](https://www.hackerrank.com/)
