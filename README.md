@@ -15,15 +15,11 @@ It will be a complete roadmap for your placement prep.
 # 🚀 Getting Started
 <br>
 
-The folders above consist of all the required questions and their solutions as well, according to each topic
+The links below added as a free resource for each topic and pdfs consist of all the required questions and their solutions as well, according to each topic
  
 These resources helped me to get an internship at my Dream company ***Amazon*** and I hope it will help you too! 
 
 I will keep on updating this repository, If I feel that anything is missing. 
-
- 
-Let me know,if you wish to add anything else to this content.
-
 
 
 # 🏆 What do I need to prepare for the interviews?
@@ -211,6 +207,7 @@ Will be soon adding resources for CS Fundamentals as well...
  <a href="https://www.buymeacoffee.com/anushka23g" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a><br> or send me an email at anushkagupta20128@gmail.com
 
 
+ Let me know,if you wish to add anything else to this content.
  
  ***Do star, fork and share the repo to show your support, it would help others too!***   <br>
  <br>
