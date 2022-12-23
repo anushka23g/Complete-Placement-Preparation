@@ -9,6 +9,9 @@ It will be a complete roadmap for your placement prep.
 <br>
 
 
+***[BEST FREE RESOURCE TO LEARN CODING, DSA AND INTERVIEW PREP](https://bit.ly/3HEfXbB)
+<br><br><br>***
+
 # 🚀 Getting Started
 <br>
 
@@ -60,9 +63,9 @@ It takes some time for languages to master, and if you spend most of your time a
 ## Pick up a language you have worked with and you are confident with!
 
 But if you have enough time, I'd suggest you to learn the most used languages during candidates<br> (this is just my suggestion, you can also go with any other language you want or you are comfortable with): <br>
-:closed_book: [C++](https://bit.ly/3uSgDCJ) <br>
-:closed_book: [Java](https://bit.ly/3UY1SsL) <br>
-:closed_book: [Python](https://bit.ly/3PnIjsF) <br>
+:closed_book: C++ [***Free Resource***](https://bit.ly/3uSgDCJ) <br>
+:closed_book: Java [***Free Resource***](https://bit.ly/3UY1SsL) <br>
+:closed_book: Python [***Free Resource***](https://bit.ly/3PnIjsF) <br>
 :closed_book: C <br>
 <br>
 ## Some of the languages used at various organisations as reported online:
@@ -85,29 +88,27 @@ You will be given a problem or puzzle to solve and you’ll need to talk about y
  
 Always talk through your solution, explain any trade-offs you are making between time and memory and ask any questions you need to clarify the question. It is worthwhile to talk about your initial thoughts to a question, though a brute force solution will be received less well than taking time to compose a more efficient solution.
 
-[Best Free Resource To Learn Coding, DSA And Interview Prep](https://bit.ly/3HEfXbB)
-<br><br><br>
  
  
  # 🏆  The sequence for studying Data Structures and Algorithms should be as follows: 
 
-1️⃣  [Arrays & Matrix](https://bit.ly/3VVmKSp) \
-2️⃣  [String](https://bit.ly/3FQcyFi) \
-3️⃣  [Searching](https://bit.ly/3hwsVO6) \
-4️⃣  [Sorting](https://bit.ly/3hwsVO6) \
-5️⃣  [Hashing](https://bit.ly/3FUol5B) \
-6️⃣  [Stack](https://bit.ly/3HCbS7T) \
-7️⃣  [Queue](https://bit.ly/3HCbS7T) \
-8️⃣  [Linked List](https://bit.ly/3HIB9NI) \
-9️⃣  [Recursion](https://bit.ly/3YpU5Xi) \
-1️⃣0️⃣  [Backtracking](https://bit.ly/3YpU5Xi) \
-1️⃣1️⃣  [Tree](https://bit.ly/3BCaM8q) \
-1️⃣2️⃣  [BST](https://bit.ly/3WjhdoI) \
-1️⃣3️⃣  [Heap or priority queue](https://bit.ly/3Yx8yRl) \
-1️⃣4️⃣  [Graph](https://bit.ly/3BB7zG6) \
-1️⃣5️⃣  [Greedy](https://bit.ly/3W5dKdB) \
-1️⃣6️⃣  [Dynamic programming](https://bit.ly/3UWcsAg) \
-1️⃣7️⃣  [Trie](https://bit.ly/3YtXO6d)
+1️⃣  Arrays & Matrix [***Free Resource***](https://bit.ly/3VVmKSp) \
+2️⃣  String [***Free Resource***](https://bit.ly/3FQcyFi) \
+3️⃣  Searching [***Free Resource***](https://bit.ly/3hwsVO6) \
+4️⃣  Sorting [***Free Resource***](https://bit.ly/3hwsVO6) \
+5️⃣  Hashing [***Free Resource***](https://bit.ly/3FUol5B) \
+6️⃣  Stack [***Free Resource***](https://bit.ly/3HCbS7T) \
+7️⃣  Queue [***Free Resource***](https://bit.ly/3HCbS7T) \
+8️⃣  Linked List [***Free Resource***](https://bit.ly/3HIB9NI) \
+9️⃣  Recursion [***Free Resource***](https://bit.ly/3YpU5Xi) \
+1️⃣0️⃣  Backtracking [***Free Resource***](https://bit.ly/3YpU5Xi) \
+1️⃣1️⃣  Tree [***Free Resource***](https://bit.ly/3BCaM8q) \
+1️⃣2️⃣  BST [***Free Resource***](https://bit.ly/3WjhdoI) \
+1️⃣3️⃣  Heap or priority queue [***Free Resource***](https://bit.ly/3Yx8yRl) \
+1️⃣4️⃣  Graph [***Free Resource***](https://bit.ly/3BB7zG6) \
+1️⃣5️⃣  Greedy [***Free Resource***](https://bit.ly/3W5dKdB) \
+1️⃣6️⃣  Dynamic programming [***Free Resource***](https://bit.ly/3UWcsAg) \
+1️⃣7️⃣  Trie [***Free Resource***](https://bit.ly/3YtXO6d)
  <br><br><br>
 
  
@@ -116,7 +117,7 @@ Always talk through your solution, explain any trade-offs you are making between
 The main areas software engineers should prepare to succeed at interview at FAANG:
 <br><br>
 
-📗 [***Mathematics:***](https://bit.ly/3j1V9k9) Some interviewers ask basic discrete math questions.
+📗 ***Mathematics:*** [***Free Resource***](https://bit.ly/3j1V9k9)<br> Some interviewers ask basic discrete math questions.
 This is more prevalent at Google than at other companies because we are surrounded by
 counting problems, probability problems, and other Discrete Math 101 situations. Spend some
 time before the interview refreshing your memory on (or teaching yourself) the essentials of
@@ -124,28 +125,28 @@ combinatorics and probability. You should be familiar with n-choose-k problems a
 more the better.
 <br><br>
 
-📗 ***Algorithm Complexity:*** It's fairly critical that you understand big-O complexity analysis. Again
+📗 ***Algorithm Complexity:*** <br> It's fairly critical that you understand big-O complexity analysis. Again
 run some practice problems to get this down in application. 
 <br><br>
 
-📗 [***Sorting:***](https://bit.ly/3hwsVO6) Know how to sort. Don't do bubble-sort. You should know the details of at least one
+📗 ***Sorting:*** [Free Resource](https://bit.ly/3hwsVO6) <br> Know how to sort. Don't do bubble-sort. You should know the details of at least one
 n*log(n) sorting algorithm, preferably two (say, quicksort and merge sort). Merge sort can be
 highly useful in situations where quicksort is impractical, so take a look at it. 
 <br><br>
 
-📗 [***Hashtables:***](https://bit.ly/3FUol5B) Arguably the single most important data structure known to mankind. You absolutely
+📗 ***Hashtables:*** [***Free Resource***](https://bit.ly/3FUol5B) <br> Arguably the single most important data structure known to mankind. You absolutely
 should know how they work. Be able to implement one using only arrays in your favorite
 language, in about the space of one interview. 
 <br><br>
 
-📗 [***Trees:***](https://bit.ly/3BCaM8q) Know about trees; basic tree construction, traversal and manipulation algorithms. 
+📗 ***Trees:*** [***Free Resource***](https://bit.ly/3BCaM8q) Know about trees; basic tree construction, traversal and manipulation algorithms. 
 Familiarize yourself with binary trees, n-ary trees, and trie-trees. Be familiar with at least one type
 of balanced binary tree, whether it's a red/black tree, a splay tree or an AVL tree, and know how
 it's implemented. <br> Understand tree traversal algorithms: BFS and DFS, and know the difference
 between inorder, postorder and preorder.
 <br><br>
 
-📗 [***Graphs:***](https://bit.ly/3BB7zG6) Graphs are really important. There are 3 basic ways to represent a graph in
+📗 ***Graphs:*** [Free Resource](https://bit.ly/3BB7zG6)<br>  Graphs are really important. There are 3 basic ways to represent a graph in
 memory (objects and pointers, matrix, and adjacency list); familiarize yourself with each
 representation and its pros & cons. You should know the basic graph traversal algorithms:
 breadth-first search and depth-first search. Know their computational complexity, their tradeoffs,
@@ -153,13 +154,13 @@ and how to implement them in real code. If you get a chance, try to study up on 
 algorithms, such as Dijkstra and A*.
 <br><br>
 
-📗 ***Other data structures:*** You should study up on as many other data structures and algorithms as
+📗 ***Other data structures:***<br>  You should study up on as many other data structures and algorithms as
 possible. You should especially know about the most famous classes of NP-complete problems,
 such as traveling salesman and the knapsack problem, and be able to recognize them when an
 interviewer asks you them in disguise. Find out what NP-complete means. 
 <br><br>
 
-📗 [***Operating Systems:***](https://bit.ly/3YnYKZN) Know about processes, threads and concurrency issues. Know about locks
+📗 ***Operating Systems:*** [***Free Resource***](https://bit.ly/3YnYKZN) <br> Know about processes, threads and concurrency issues. Know about locks
 and mutexes and semaphores and monitors and how they work. Know about deadlock and
 livelock and how to avoid them. Know what resources a processes needs, and a thread needs,
 and how context switching works, and how it's initiated by the operating system and underlying
@@ -186,14 +187,14 @@ of detail about your favorite programming language.
 
 Sharing some of the most popular sheets here the sheets here that might help you with the prep :) 
 <br><br>
-📘 [Striver SDE Sheet Problems](https://bit.ly/3j6PrO4) <br><br>
-📘 [Love Babbar SDE Sheet](https://bit.ly/3hm5KGf) 
+📘 Striver SDE Sheet Problems [***CHECK HERE***](https://bit.ly/3j6PrO4) <br><br>
+📘 Love Babbar SDE Sheet [***CHECK HERE***](https://bit.ly/3hm5KGf) 
 <br><br>
 
 # 🏆 SOME EXTRA TIPS:
  
 ## :beginner: Coding Practice
-📒 [Codestudio](https://bit.ly/3HEfXbB)\
+📒 [***Codestudio***](https://bit.ly/3HEfXbB)\
 📒 [LeetCode](https://leetcode.com/)  (Go to Problems -> Algorithms)\
 📒 [GeeksForGeeks](https://practice.geeksforgeeks.org/explore/?page=1)\
 📒 [Hackerrank](https://www.hackerrank.com/)
