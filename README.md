@@ -180,11 +180,13 @@ Sharing some of the most popular sheets here the sheets here that might help you
 📒 [LeetCode](https://leetcode.com/)  (Go to Problems -> Algorithms)\
 📒 [GeeksForGeeks](https://practice.geeksforgeeks.org/explore/?page=1)\
 📒 [Hackerrank](https://www.hackerrank.com/)
+📒 [InterviewBit](https://www.interviewbit.com/practice/)
 
 ## :beginner: General Interview Prep
 📚 [GeeksforGeeks](https://www.geeksforgeeks.org/) \
 📚 [High Scalability](http://highscalability.squarespace.com/) \
 📚 [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
+📚 [Puzzles for General Interview Prep](https://www.interviewbit.com/puzzles/)
 
 
 DONT FORGET TO CHECKOUT my followup article more better preparation [HERE](https://medium.com/getpieces/snippetizing-your-coding-interviews-4ec4eb2f0d89) - Has more tips and tricks on how I prepared!!
