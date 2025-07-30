@@ -1,5 +1,11 @@
 # :gift: Placement-Preparation- Complete Roadmap :gift:    
 <br>
+<h3>Schedule a Mock Interview/ Mentorship/ Coaching sessions 👨‍💻 here: </h3>
+
+
+anushkagupta20128@gmail.com or [LinkedIn](https://www.linkedin.com/in/anushka-gupta23/) <br>
+
+
 This repository consists of all the necessary questions and their solutions required for cracking the coding rounds and technical interviews at tech companies as well. And this content will surely help you to crack your dream company. This material has been taken and combined from various different sources.
 It will be a complete roadmap for your placement prep.
  
@@ -17,10 +23,8 @@ Let me know,if you wish to add anything else to this content.
 <br>
 ### THE PDF FILES CAN BE FOUND [HERE](pdfs)
 ### THE MARKDOWN FILES CAN BE FOUND [HERE](md)
-<br><br>
- ***If you like the content and wish to support/sponsor it*** :heart:: 
  
- <a href="https://www.buymeacoffee.com/anushka23g" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a><br> or send me an email at anushkagupta20128@gmail.com
+or send me an email at anushkagupta20128@gmail.com
 # 🏆 What do I need to prepare for the interviews?
 
 To get your dream company, you should be good in the following while facing an interview:
@@ -95,6 +99,9 @@ Always talk through your solution, explain any trade-offs you are making between
 1️⃣7️⃣Trie
  <br><br><br>
 
+
+
+Need Guidance on where to start? Connect with me for mentored sessions at anushkagupta20128@gmail.com or ***[LinkedIn](https://www.linkedin.com/in/anushka-gupta-679496196/)
 
 # 🏆  Technical Preparation tips:
 <br>
@@ -173,8 +180,6 @@ of detail about your favorite programming language.
 📚 [High Scalability](http://highscalability.squarespace.com/) \
 📚 [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
 DONT FORGET TO CHECKOUT my followup article more better preparation [HERE](https://medium.com/getpieces/snippetizing-your-coding-interviews-4ec4eb2f0d89) - Has more tips and tricks on how I prepared!!
-Will be soon adding resources for CS Fundamentals as well...
- 
  
  
  ***Do star, fork and share the repo to show your support, it would help others too!***   <br>
