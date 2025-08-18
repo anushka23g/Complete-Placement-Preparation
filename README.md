@@ -84,19 +84,19 @@ Always talk through your solution, explain any trade-offs you are making between
 2️⃣  [String]("https://github.com/anushka23g/Complete-Placement-Preparation/blob/main/STRING.pdf") \
 3️⃣ Searching\
 4️⃣ Sorting\
-5️⃣ Hashing\
+5️⃣ [Hashing](https://www.scaler.com/topics/data-structures/hashing-in-data-structure/)\
 6️⃣ Stack\
 7️⃣ Queue\
-8️⃣ Linked List\
+8️⃣ [Linked List](https://www.scaler.com/topics/linked-list/)\
 9️⃣ Recursion\
-1️⃣0️⃣ Backtracking\
-1️⃣1️⃣ Tree\
-1️⃣2️⃣ BST\
-1️⃣3️⃣ Heap or priority queue\
-1️⃣4️⃣ Graph\
-1️⃣5️⃣ Greedy\
-1️⃣6️⃣ Dynamic programming\
-1️⃣7️⃣Trie
+1️⃣0️⃣ [Backtracking](https://www.scaler.com/topics/backtracking-algorithm/)\
+1️⃣1️⃣ [Tree](https://www.scaler.com/topics/data-structures/tree-data-structure/)\
+1️⃣2️⃣ [BST](https://www.scaler.com/topics/data-structures/binary-search-tree/)\
+1️⃣3️⃣ [Heap](https://www.scaler.com/topics/data-structures/heap-data-structure/) or [priority queue](https://www.scaler.com/topics/data-structures/priority-queue-in-data-structure/)\
+1️⃣4️⃣ [Graph](https://www.scaler.com/topics/types-of-graphs-in-data-structure/)\
+1️⃣5️⃣ [Greedy](https://www.scaler.com/topics/greedy-algorithm/)\
+1️⃣6️⃣ [Dynamic programming](https://www.scaler.com/topics/dynamic-programming/)\
+1️⃣7️⃣[Trie](https://www.scaler.com/event/trie-data-structure-its-applications/)\
  <br><br><br>
 
 
