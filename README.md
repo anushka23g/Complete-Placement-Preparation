@@ -178,6 +178,7 @@ of detail about your favorite programming language.
 ## :beginner: General Interview Prep
 📚 [GeeksforGeeks](https://www.geeksforgeeks.org/) \
 📚 [High Scalability](http://highscalability.squarespace.com/) \
+📚 [Practick - Free peer mock interviews](https://practick.io/) \
 📚 [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
 DONT FORGET TO CHECKOUT my followup article more better preparation [HERE](https://medium.com/getpieces/snippetizing-your-coding-interviews-4ec4eb2f0d89) - Has more tips and tricks on how I prepared!!
  
